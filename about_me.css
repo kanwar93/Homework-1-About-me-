@@ -1,0 +1,23 @@
+body{
+	background-image: url("IMG/roses.jpg");
+}
+h1{
+	text-align: center;
+  font-size: 60px;
+  font-family: Century Gothic, sans-serif;
+}
+p{
+ font-size: 30px;
+ font-weight: 10px;
+ text-align: center;
+}
+ul {
+   padding: 10px;
+   padding-left: 550px;
+  }
+
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+  
+    }
